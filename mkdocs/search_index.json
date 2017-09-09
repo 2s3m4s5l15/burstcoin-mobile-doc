@@ -129,6 +129,16 @@
             "location": "/switching/#switching-wallet", 
             "text": "The Android Burstcoin Wallet Application offers you the possibility to manage multiple wallets. Just add active and offline wallets according to your needs. You can easily switch between wallets by selecting them in the accounts tab.", 
             "title": "Switching Wallet"
+        }, 
+        {
+            "location": "/privacy_policy/", 
+            "text": "Privacy Policy\n\n\nWe do not collect or store any data!\n\n\nThe encryption and decryption of the private key is completely performed on the client.\nThe app connects to the specified Burst node in order to get the balance and do transactions. In addition, it connects to the API of coinmarketcap.com for currency conversion tasks. Permissions are not needed, except for the camera if one decides to scan for QR codes!", 
+            "title": "Privacy Policy"
+        }, 
+        {
+            "location": "/privacy_policy/#privacy-policy", 
+            "text": "We do not collect or store any data!  The encryption and decryption of the private key is completely performed on the client.\nThe app connects to the specified Burst node in order to get the balance and do transactions. In addition, it connects to the API of coinmarketcap.com for currency conversion tasks. Permissions are not needed, except for the camera if one decides to scan for QR codes!", 
+            "title": "Privacy Policy"
         }
     ]
 }
