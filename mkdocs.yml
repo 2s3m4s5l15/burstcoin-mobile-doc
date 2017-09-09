@@ -3,6 +3,7 @@ site_name: Android Burstcoin Wallet
 site_description: Documentation for the Android Burstcoin Wallet
 site_author: cgb
 site_url: https://github.com/cgebe/burst-pocket-docs
+site_favicon: img/favicon.ico
 
 # Repository
 repo_name: cgebe/burstcoin-wallet-android
@@ -29,7 +30,7 @@ pages:
       - Import Wallet: wallet/import.md
       - Activate Wallet: wallet/activate.md
   - PIN Code: pin.md
-  - Send BURST: send.md
+  - Send Burstcoins: send.md
   - Transaction History: transactions.md
   - Switching Wallet: switching.md
 
