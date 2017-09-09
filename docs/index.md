@@ -1,17 +1,3 @@
-# Welcome to MkDocs
+# Documentation for the Android Burstcoin Wallet
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+On these pages you can find the documentation for the Android Burstcoin Wallet, developed by the PoC Consortium. If you have bugs or feature requests, please post them on the [github issue page](https://github.com/cgebe/burstcoin-wallet-android/issues).

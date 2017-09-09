@@ -1,2 +1,36 @@
-site_name: My Docs
+# Project information
+site_name: Android Burstcoin Wallet
+site_description: Documentation for the Android Burstcoin Wallet
+site_author: cgb
+site_url: https://github.com/cgebe/burst-pocket-docs
+
+# Repository
+repo_name: cgebe/burstcoin-wallet-android
+repo_url: https://github.com/cgebe/burstcoin-wallet-android
+
+# Options
+extra:
+  feature:
+    tabs: false
+  palette:
+    primary: indigo
+    accent: indigo
+  social:
+    - type: github-alt
+      link: https://github.com/cgebe
+    - type: twitter
+      link: https://twitter.com/PoC_Consortium
+
+# Page tree
+pages:
+  - Documentation: index.md
+  - Wallet:
+      - Create Wallet: wallet/create.md
+      - Import Wallet: wallet/import.md
+      - Activate Wallet: wallet/activate.md
+  - PIN Code: pin.md
+  - Send BURST: send.md
+  - Transaction History: transactions.md
+  - Switching Wallet: switching.md
+
 theme: 'material'
