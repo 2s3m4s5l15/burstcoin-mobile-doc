@@ -88,7 +88,7 @@
         {
             "location": "/send/", 
             "text": "Sending Burstcoins\n\n\nThe Android Burstcoin Wallet Application allows you to send Burstcoins to other addresses. Sending Burstcoins is only possible with an active wallet. If you have imported an offline wallet and want to send Burstcoins, please refer to \nActivate Wallet\n.\n\n\nSend\n\n\nIn order to send Burst to another address, you have to enter:\n\n\n\n\nA valid Burst address as recipient\n\n\nAn amount less or equal to your current balance\n\n\nA transaction fee of a minimum of 1 Burstcoin\n\n\n\n\nVerify\n\n\nFor your transaction to actually take place, you have to verify your transaction by entering the \nPIN code\n of your wallet. Otherwise, the transaction cannot be executed.", 
-            "title": "Send BURST"
+            "title": "Send Burstcoins"
         }, 
         {
             "location": "/send/#sending-burstcoins", 
