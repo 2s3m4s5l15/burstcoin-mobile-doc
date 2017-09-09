@@ -33,5 +33,6 @@ pages:
   - Send Burstcoins: send.md
   - Transaction History: transactions.md
   - Switching Wallet: switching.md
+  - Privacy Policy: privacy_policy.md
 
 theme: 'material'
