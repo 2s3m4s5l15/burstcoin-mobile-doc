@@ -132,12 +132,12 @@
         }, 
         {
             "location": "/privacy_policy/", 
-            "text": "Privacy Policy\n\n\nWe do not collect or store any data!\n\n\nThe encryption and decryption of the private key is completely performed on the client.\nThe app connects to the specified Burst node in order to get the balance and do transactions. In addition, it connects to the API of coinmarketcap.com for currency conversion tasks. Permissions are not needed, except for the camera if one decides to scan for QR codes!", 
+            "text": "Privacy Policy\n\n\nWe do \nnot\n collect or store any data!\n\n\nThe encryption and decryption of the private key is completely performed on the client.\nThe application connects to the specified BURST node in order to get the balance information and execute transactions. In addition, it connects to the API of coinmarketcap.com for currency conversion tasks. Permissions are not needed, except for the camera, if one decides to scan for QR codes!", 
             "title": "Privacy Policy"
         }, 
         {
             "location": "/privacy_policy/#privacy-policy", 
-            "text": "We do not collect or store any data!  The encryption and decryption of the private key is completely performed on the client.\nThe app connects to the specified Burst node in order to get the balance and do transactions. In addition, it connects to the API of coinmarketcap.com for currency conversion tasks. Permissions are not needed, except for the camera if one decides to scan for QR codes!", 
+            "text": "We do  not  collect or store any data!  The encryption and decryption of the private key is completely performed on the client.\nThe application connects to the specified BURST node in order to get the balance information and execute transactions. In addition, it connects to the API of coinmarketcap.com for currency conversion tasks. Permissions are not needed, except for the camera, if one decides to scan for QR codes!", 
             "title": "Privacy Policy"
         }
     ]
