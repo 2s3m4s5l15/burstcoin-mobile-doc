@@ -12,4 +12,4 @@ Please post bugs/problems into the issue section of this repository. This is the
 
 ## Contribution
 
-If anything is missing from the docs, please feel free to create pull requests or issues, that we can complement it.
+If anything is missing from the docs, please feel free to create pull requests or issues stating the knowledge gap, that we can complement it.
