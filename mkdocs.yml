@@ -36,3 +36,8 @@ pages:
   - Privacy Policy: privacy_policy.md
 
 theme: 'material'
+
+# Google Analytics
+google_analytics:
+  - UA-106243123-1
+  - auto
