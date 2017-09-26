@@ -29,10 +29,11 @@ pages:
       - Create Wallet: wallet/create.md
       - Import Wallet: wallet/import.md
       - Activate Wallet: wallet/activate.md
+      - Switch Wallet: wallet/switch.md
+      - Remove Wallet: wallet/remove.md
   - PIN Code: pin.md
   - Send Burstcoins: send.md
   - Transaction History: transactions.md
-  - Switching Wallet: switching.md
   - Privacy Policy: privacy_policy.md
 
 theme: 'material'
