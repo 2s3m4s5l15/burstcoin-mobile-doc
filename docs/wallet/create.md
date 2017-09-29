@@ -28,4 +28,4 @@ To ensure security, you have to write down the generated passphrase and recall e
 
 ## PIN Code
 
-To complete the generation of a new Burstcoin account, you need to set a PIN code for it. Please refer to [PIN Code](pin.md).
+To complete the generation of a new Burstcoin account, you need to set a PIN code for it. Please refer to [PIN Code](../pin.md).

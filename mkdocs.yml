@@ -26,11 +26,11 @@ extra:
 pages:
   - Documentation: index.md
   - Wallet:
-      - Create Wallet: wallet/create.md
-      - Import Wallet: wallet/import.md
-      - Activate Wallet: wallet/activate.md
-      - Switch Wallet: wallet/switch.md
-      - Remove Wallet: wallet/remove.md
+      - Create Account: wallet/create.md
+      - Import Account: wallet/import.md
+      - Activate Account: wallet/activate.md
+      - Switch Account: wallet/switch.md
+      - Remove Account: wallet/remove.md
   - PIN Code: pin.md
   - Send Burstcoins: send.md
   - Transaction History: transactions.md
