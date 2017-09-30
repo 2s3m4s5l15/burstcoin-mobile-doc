@@ -1,4 +1,5 @@
 
+If you have multiple feature requests, please create a seperate issue for each individual feature.
 If you report a bug, please use the following template!
 
 **Specifications**
