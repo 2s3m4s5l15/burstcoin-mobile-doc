@@ -2,6 +2,16 @@
 
 This repository holds the documentation for the Burstcoin Wallet Android Application.
 
+## Voluntary translators :heart: 
+
+- fabry1999
+- FLEGI
+- Gadrah
+- Leass
+- Quibus
+- RedFury
+- westhorn
+
 ## Releases
 
 Besides updates on the Google Play Store, each version of the application will be provided as apk download in the [releases](https://github.com/cgebe/burstcoin-wallet/releases) section of this repository.
