@@ -4,6 +4,7 @@ This repository holds the documentation for the Burstcoin Wallet Android Applica
 
 ## Voluntary translators :heart: 
 
+- bold
 - fabry1999
 - FLEGI
 - Gadrah
