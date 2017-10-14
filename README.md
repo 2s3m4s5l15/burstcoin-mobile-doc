@@ -8,6 +8,7 @@ This repository holds the documentation for the Burstcoin Wallet Android Applica
 - fabry1999
 - FLEGI
 - Gadrah
+- Hiro Inu
 - Leass
 - Quibus
 - RedFury
