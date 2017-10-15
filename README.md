@@ -2,7 +2,7 @@
 
 This repository holds the documentation for the Burstcoin Wallet Android Application.
 
-## Translators :heart: 
+## Translators :two_hearts: 
 
 - bmxakias
 - bold
