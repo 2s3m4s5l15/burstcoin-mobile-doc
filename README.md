@@ -11,8 +11,10 @@ This repository holds the documentation for the Burstcoin Wallet Android Applica
 - Gadrah
 - Hiro Inu
 - Leass
+- NullNomad
 - Quibus
 - RedFury
+- SolidLiquid
 - westhorn
 
 ## Releases
