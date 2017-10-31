@@ -1,6 +1,6 @@
 # Sending Burstcoins
 
-The Android Burstcoin Wallet Application allows you to send Burstcoins to other addresses. Sending Burstcoins is only possible with an active account. If you have imported an offline account and want to send Burstcoins, please refer to [Activate Wallet](wallet/activate.md).
+The Android Burstcoin Wallet Application allows you to send Burstcoins to other addresses. Sending Burstcoins is only possible with an active account. If you have imported an offline account and want to send Burstcoins, please refer to [Activate Account](wallet/activate.md).
 
 ## Send
 
