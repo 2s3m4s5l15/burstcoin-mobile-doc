@@ -1,6 +1,7 @@
 # Burstcoin Wallet
 
 This repository holds the documentation for the Burstcoin Wallet Android Application.
+
 https://play.google.com/store/apps/details?id=org.icewave.burstcoinwallet
 
 ## Translators :two_hearts: 
