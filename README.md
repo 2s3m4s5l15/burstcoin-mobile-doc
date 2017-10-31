@@ -1,7 +1,7 @@
+<a href='https://play.google.com/store/apps/details?id=org.icewave.burstcoinwallet&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="200" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 # Burstcoin Wallet
 
 This repository holds the documentation for the Burstcoin Wallet Android Application.  
-<a href='https://play.google.com/store/apps/details?id=org.icewave.burstcoinwallet&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="200" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
 ## Translators :two_hearts: 
 
