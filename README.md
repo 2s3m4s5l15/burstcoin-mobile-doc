@@ -6,6 +6,7 @@ This repository holds the documentation for the Burstcoin Wallet Mobile Applicat
 
 - bmxakias
 - bold
+- Brabantian
 - fabry1999
 - FLEGI
 - Gadrah
