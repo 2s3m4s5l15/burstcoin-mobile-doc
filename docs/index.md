@@ -4,8 +4,11 @@ On these pages you can find the documentation for the Android Burstcoin Wallet, 
 
 ## Controls
 * Swapping down on the balance, transaction and accounts tab leads to a refresh of the page
-* Double tap on Burst addresses copies them to the clipboard
 * Long tap on Burst addresses opens the social share functionality
+* Double tap on Burst addresses copies them to the clipboard
+* Double tap on the recipient label on the send page inserts a Burst address from the clipboard
+* Tap on a transaction to open the Burst explorer showing the details of the transaction
+* Tap on the encrypted text of a transaction to open the decryption dialog
 
 ## Navigation
 * Accounts
