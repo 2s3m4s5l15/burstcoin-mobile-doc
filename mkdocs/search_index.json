@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Documentation for the Android Burstcoin Wallet\n\n\nOn these pages you can find the documentation for the Android Burstcoin Wallet, developed by the PoC Consortium. If you have bugs or feature requests, please post them on the \ngithub issue page\n.\n\n\nControls\n\n\n\n\nSwapping down on the balance, transaction and accounts tab leads to a refresh of the page\n\n\nDouble tap on Burst addresses copies them to the clipboard\n\n\nLong tap on Burst addresses opens the social share functionality\n\n\n\n\nNavigation\n\n\n\n\nAccounts\n\n\nCreate\n\n\nImport\n\n\nActivate\n\n\nSwitch\n\n\nRemove\n\n\n\n\n\n\nPIN code\n\n\nSend Burstcoins\n\n\nTransaction History\n\n\nPrivacy Policy", 
+            "text": "Documentation for the Android Burstcoin Wallet\n\n\nOn these pages you can find the documentation for the Android Burstcoin Wallet, developed by the PoC Consortium. If you have bugs or feature requests, please post them on the \ngithub issue page\n.\n\n\nControls\n\n\n\n\nSwapping down on the balance, transaction and accounts tab leads to a refresh of the page\n\n\nLong tap on Burst addresses opens the social share functionality\n\n\nDouble tap on Burst addresses copies them to the clipboard\n\n\nDouble tap on the recipient label on the send page inserts a Burst address from the clipboard\n\n\nTap on a transaction to open the Burst explorer showing the details of the transaction\n\n\nTap on the encrypted text of a transaction to open the decryption dialog\n\n\n\n\nNavigation\n\n\n\n\nAccounts\n\n\nCreate\n\n\nImport\n\n\nActivate\n\n\nSwitch\n\n\nRemove\n\n\n\n\n\n\nPIN code\n\n\nSend Burstcoins\n\n\nTransaction History\n\n\nPrivacy Policy", 
             "title": "Documentation"
         }, 
         {
@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/#controls", 
-            "text": "Swapping down on the balance, transaction and accounts tab leads to a refresh of the page  Double tap on Burst addresses copies them to the clipboard  Long tap on Burst addresses opens the social share functionality", 
+            "text": "Swapping down on the balance, transaction and accounts tab leads to a refresh of the page  Long tap on Burst addresses opens the social share functionality  Double tap on Burst addresses copies them to the clipboard  Double tap on the recipient label on the send page inserts a Burst address from the clipboard  Tap on a transaction to open the Burst explorer showing the details of the transaction  Tap on the encrypted text of a transaction to open the decryption dialog", 
             "title": "Controls"
         }, 
         {
