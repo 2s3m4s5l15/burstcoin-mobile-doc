@@ -11,6 +11,7 @@ This repository holds the documentation for the Burstcoin Wallet Mobile Applicat
 - FLEGI
 - Gadrah
 - Hiro Inu
+- Karel S.
 - Leass
 - NullNomad
 - Quibus
