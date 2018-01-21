@@ -3,19 +3,24 @@ site_name: Android Burstcoin Wallet
 site_description: Documentation for the Android Burstcoin Wallet
 site_author: cgb
 site_url: https://github.com/poc-consortium/burstcoin-mobile-doc
-site_favicon: img/favicon.ico
 
 # Repository
 repo_name: burstcoin-mobile-doc
 repo_url: https://github.com/poc-consortium/burstcoin-mobile-doc
 
-# Options
-extra:
+# Theme
+theme:
+  name: 'material'
+  favicon: assets/img/favicon.ico
+  logo: assets/img/logo.png
   feature:
     tabs: false
   palette:
     primary: indigo
     accent: indigo
+
+# Options
+extra:
   social:
     - type: github-alt
       link: https://github.com/poc-consortium
@@ -35,8 +40,6 @@ pages:
   - Send Burstcoins: send.md
   - Transaction History: transactions.md
   - Privacy Policy: privacy_policy.md
-
-theme: 'material'
 
 # Google Analytics
 google_analytics:
