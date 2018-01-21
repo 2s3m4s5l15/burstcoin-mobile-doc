@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Burstcoin Mobile Wallet Documentation
 
 This repository holds the documentation for the Burstcoin Wallet Mobile Application.  
